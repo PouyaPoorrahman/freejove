@@ -1,12 +1,12 @@
 return {
-	bot_api_key = '269199299:AAFNdqHk72n4AeJiiCTwnyfmsjZL9Q7eT78',
-	version = '4.0',
+	bot_api_key = '256721018:AAFfg3VDitU7o5opN131ZpjHLOY_Ux0-iS8',
+	version = '0.5',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 218722292,
+		owner = 218722292,68853039,192727254,247473926,269775099
 		admins = {
-			[141956218] = false
+			[204181165] = true
 		}
 	},
 	log_chat = -1001057801239,
@@ -21,9 +21,9 @@ return {
 	},
 	channel = '@JoveCH', --channel username with the '@'
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
-		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
-		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
+		['Internatonal (English)'] = 'https://telegram.me/joinchat/DsAnBkCBZ5PXxsDoshGiuA', --group link, not username!
+		['Italian'] = false, --'https://telegram.me/joinchat/DsAnBkCBZ5PXxsDoshGiuA',
+		['Persian'] = 'https://telegram.me/joinchat/DsAnBkCBZ5PXxsDoshGiuA',
 		['Spanish'] = false
 	},
 	languages = 'languages.lua',
