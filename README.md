@@ -1,12 +1,12 @@
-#Group Butler
+#Free Jove
 
 ##Short introduction
 
 This bot has been created to help people in the administration of a group, with a lot of useful tools.
 
-This bot born as an [Otouto](https://github.com/topkecleon/otouto) [v3.1](https://github.com/topkecleon/otouto/tree/26c1299374af130bbf8457af904cb4ea450caa51) ([@mokubot](https://telegram.me/mokubot)), but has been turned in an administration bot.
+[@JoveFreeBot](http://github.com/JoveFreeBot)
 
-Follow the [channel](https://telegram.me/groupbutler_ch) if you want to be updated about new changes. The official bot is [@GroupButler_bot](http://github.com/groupbutler_bot).
+Based On [@GroupButler_bot](http://github.com/groupbutler_bot).
 
 * * *
 
@@ -48,8 +48,8 @@ $ cd ..
 
 # Clone the repository and give the permissions to start the launch script
 
-$ git clone https://github.com/RememberTheAir/GroupButler.git
-$ cd GroupButler && sudo chmod 777 launch.sh
+$ git clone https://github.com/TitanZeus/freejove.git
+$ cd freejove && sudo chmod 777 launch.sh
 ```
 
 Other things to check before run the bot:
@@ -145,18 +145,6 @@ If you are going to open a pull request, keep in mind that I don't know how to u
 
 * * *
 
-##Credits
+##Editor
 
-Topkecleon, for the original [otouto](https://github.com/topkecleon/otouto)
-
-Iman Daneshi and Tiago Danin, for [Jack-telegram-bot](https://github.com/Imandaneshi/jack-telegram-bot)
-
-Yago Pérez for his [telegram-bot](https://github.com/yagop/telegram-bot)
-
-The [Werewolf](https://github.com/parabola949/Werewolf) guys, for aiding the spread of the bot
-
-Lucas Montuano, for helping me a lot in the debugging of the bot
-
-All the people who reported bugs and suggested new stuffs
-
-Le Laide
+Pouya Poorrahman [vVv_ERPO_vVv](https://telegram.me/vVv_ERPO_vVv)
