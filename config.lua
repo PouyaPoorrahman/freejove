@@ -19,7 +19,7 @@ return {
 		notify_bug = true,
 		log_api_errors = false
 	},
-	channel = '@groupbutler_ch', --channel username with the '@'
+	channel = '@JoveCH', --channel username with the '@'
 	help_groups = {
 		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
 		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
