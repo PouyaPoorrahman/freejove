@@ -51,7 +51,7 @@ return {
             menu_cb_warns = 'Use the row below to change the warns settings!',
         },
         not_mod = 'You are *not* an admin',
-        breaks_markdown = 'This text breaks the markdown.\nMore info about a proper use of markdown [here](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'This text breaks the markdown.\nMore info about a proper use of markdown [here](https://telegram.me/JoveCH).',
         credits = '*Some useful links:*',
         extra = {
             setted = '&&&1 command saved!',
@@ -80,7 +80,7 @@ return {
 `/addabout [text]` = add some text at the end of the existing description."
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel]],
+For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel]],
                 flood = [[*Moderators: flood settings*
 
 `/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.
@@ -113,7 +113,7 @@ You can reply to a media (_photo, file, vocal, video, gif, audio_) with `/extra 
 `/extra del [#trigger]` = delete the trigger and its message.
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel]],
+For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel]],
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -165,9 +165,9 @@ The inline keyboard has three sub-menus:
 `/groups` : show the list of the discussion groups
 `/help` : show this message.'
 
-If you like this bot, please leave the vote you think it deserves [here](https://telegram.me/storebot?start=groupbutler_bot)']],
+If you like this bot, please leave the vote you think it deserves [here](https://telegram.me/storebot?start=JoveFreeBot)']],
 		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -442,7 +442,7 @@ The number is not related the the normal `/warn` command']],
             menu_cb_warns = 'Usa la riga sottostante per modificare le impostazioni dei warns!',
         },
         not_mod = '*Non sei* un moderatore!',
-        breaks_markdown = 'Questo messaggio impedisce il markdown.\nControlla quante volte hai usato asterischi oppure underscores.\nPiù info [qui](https://telegram.me/GroupButler_ch/46)',
+        breaks_markdown = 'Questo messaggio impedisce il markdown.\nControlla quante volte hai usato asterischi oppure underscores.\nPiù info [qui](https://telegram.me/JoveCH)',
         credits = '*Alcuni link utili:*',
         extra = {
             setted = '&&&1 salvato!',
@@ -471,7 +471,7 @@ The number is not related the the normal `/warn` command']],
 `/addabout [testo]` = aggiungi del testo alla descrizione già esistente.
 
 *Nota:* il markdown è permesso. Se del testo presenta un markdown scorretto, il bot notificherà che qualcosa è andato storto.
-Per un markdown corretto, consulta [questo post](https://telegram.me/GroupButler_ch/46) nel canale ufficiale]],
+Per un markdown corretto, consulta [questo post](https://telegram.me/JoveCH) nel canale ufficiale]],
                 flood = [[*Moderatori: impostazioni flood*
 
 `/antiflood [numero]` = imposta quanti messaggi possono essere inviati in 5 secondi senza attivare l'anti-flood.
@@ -499,7 +499,7 @@ _Nota_ : il numero deve essere maggiore di 3 e minore di 26.\n]],
                         .."`/extra list` = ottieni la lista dei comandi personalizzati impostati.\n"
                         .."`/extra del [#comando]` = elimina il comando ed il messaggio associato.\n"
                         .."\n*Nota:* il markdown è permesso. Se del testo presenta un markdown scorretto, il bot notificherà che qualcosa è andato storto.\n"
-                        .."Per un markdown corretto, consulta [questo post](https://telegram.me/GroupButler_ch/46) nel canale ufficiale",
+                        .."Per un markdown corretto, consulta [questo post](https://telegram.me/JoveCH) nel canale ufficiale",
                 warns = [[*Moderatori: warns*
 
 `/warn [by reply]` = ammonisci un utente. Quando il numero massimo di ammonizioni verrà raggiunto, l'utente verrà kickato/bannato.
@@ -544,9 +544,9 @@ La tastiera ha 3 sub-menu:
 `/info` : mostra alcune info sul bot
 `/groups` : mostra la lista dei gruppi di discussione riguardo al bot
 `/help` : show this message.'
-\n\nSe ti piace questo bot, per favore lascia il voto che credi si meriti [qui](https://telegram.me/storebot?start=groupbutler_bot)]],
+\n\nSe ti piace questo bot, per favore lascia il voto che credi si meriti [qui](https://telegram.me/storebot?start=JoveFreeBot)]],
 		    private = [[Ciao *&&&1* '..emoji.shaking_hand..', piacere di conoscerti!
-Sono Group Butler, il primo bot per amministrare gruppi che utilizza la Bot API ufficiale.
+Sono Group Jove, il primo bot per amministrare gruppi che utilizza la Bot API ufficiale.
 
 *Posso fare un sacco di cose interessanti*, di seguito una breve lista:
 • Posso *kickare o bannare* un utente (anche in gruppi normali) by reply/username
@@ -825,7 +825,7 @@ funziono meglio se mi aggiungi agli amministratori del gruppo (altrimenti non po
             menu_cb_warns = 'Usa la fila de debajo para cambiar los ajustes de advertencias',
         },
         not_mod = 'Tu *no* eres admin',
-        breaks_markdown = 'Este texto no puede ser reducido.\nMás información sobre un uso adecuado [aquí](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'Este texto no puede ser reducido.\nMás información sobre un uso adecuado [aquí](https://telegram.me/JoveCH).',
         credits = '*Algunos enlaces de interés:*',
         extra = {
             setted = '¡El comando &&&1 ha sido guardado!',
@@ -854,7 +854,7 @@ funziono meglio se mi aggiungi agli amministratori del gruppo (altrimenti non po
 `/addabout [text]` = add some text at the end of the existing description.
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel]],
+For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel]],
                 flood = [[*Moderators: flood settings*
 
 `/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.
@@ -888,7 +888,7 @@ You can reply to a media (_photo, file, vocal, video, gif, audio_) with `/extra 
 `/extra del [#trigger]` = delete the trigger and its message.
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel]],
+For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel]],
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -941,7 +941,7 @@ The inline keyboard has three sub-menus:
 `/groups` : get the list of the discussion groups
 `/help` : ver este mensaje]],
 		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -1214,7 +1214,7 @@ Los iconos junto al comando mostrarán el estado actual:
             menu_cb_warns = 'Use a linha abaixo para mudar as configurações de advertências!',
         },
         not_mod = 'Você *não* é um(a) moderador(a)',
-        breaks_markdown = 'Esta é a quebra de markdown.\nMais informações sobre o uso correto de markdown[aqui](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'Esta é a quebra de markdown.\nMais informações sobre o uso correto de markdown[aqui](https://telegram.me/JoveCH).',
         credits = '*Clique em alguma informação desejada abaixo:*',
         extra = {
             setted = '&&&1 comando salvo!',
@@ -1242,7 +1242,7 @@ Los iconos junto al comando mostrarán el estado actual:
 `/addabout [text]` = acrescentar algo a descrição do grupo já definida.
 
 *Nota:* markdown é suportado. Se o texto enviado quebrar o markdown, o bot irá notificar que alguma coisa está errada.
-Para o uso correto de markdown, verifique [esta postagem](https://telegram.me/GroupButler_ch/46) no canal]],
+Para o uso correto de markdown, verifique [esta postagem](https://telegram.me/JoveCH) no canal]],
                 flood = "*Moderadores: configurações de flood*\n\n"
                         .."`/antiflood` = gerencie as configurações de flood no privado, através do teclado embutido. Você pode alterar a severidade, a ação (kickar/banir), e até um conjunto de exceções.\n"
                         .."`/antiflood [number]` = define a quantidade de mensagems permitidas no intervalo de 5 segundos.\n"
@@ -1269,7 +1269,7 @@ Para o uso correto de markdown, verifique [esta postagem](https://telegram.me/Gr
                         .."`/extra list` = Receba a lista dos seus comandos personalizados.\n"
                         .."`/extra del [#trigger]` = Apague um gatilho e sua mensagem.\n"
                         .."\n*Nota:* markdown é suportado. Se o texto enviado quebrar o markdown, o bot irá notificar que alguma coisa está errada.\n"
-                        .."Para o uso correto de markdown, verifique [esta postagem](https://telegram.me/GroupButler_ch/46) no canal",
+                        .."Para o uso correto de markdown, verifique [esta postagem](https://telegram.me/JoveCH) no canal",
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = Advertir um usuário. Uma vez o número máximo é alcançado, ele irá ser kickado/banido.
@@ -1316,7 +1316,7 @@ O teclado embutido tem 3 sub-menus:
 `/groups` : recebe a lista de todos os grupos de discussão
 `/help` : exibe esta mensagem]],
             private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -1594,7 +1594,7 @@ O teclado embutido tem 3 sub-menus:
             menu_cb_warns = 'Use the row below to change the warns settings!',
         },
         not_mod = 'Ты *не* модератор',
-        breaks_markdown = 'Этот текст содержит ошибку (markdown).\nИнформация о правильном использовании markdown [здесь](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'Этот текст содержит ошибку (markdown).\nИнформация о правильном использовании markdown [здесь](https://telegram.me/JoveCH).',
         credits = '*Some useful links:*',
         extra = {
             setted = '&&&1 command saved!',
@@ -1622,7 +1622,7 @@ O teclado embutido tem 3 sub-menus:
 `/addabout [text]` = add some text at the end of the existing description.
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel]],
+For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel]],
                 flood = "*Moderators: flood settings*\n\n"
                         .."`/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.\n"
                         .."`/antiflood [number]` = set how many messages a user can write in 5 seconds.\n"
@@ -1649,7 +1649,7 @@ For a correct use of the markdown, check [this post](https://telegram.me/GroupBu
                         .."`/extra list` = get the list of your custom commands.\n"
                         .."`/extra del [#trigger]` = delete the trigger and its message.\n"
                         .."\n*Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.\n"
-                        .."For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel",
+                        .."For a correct use of the markdown, check [this post](https://telegram.me/JoveCH) in the channel",
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -1695,7 +1695,7 @@ The inline keyboard has three sub-menus:
 `/groups` : get the list of the discussion groups
 `/help` : show this message]],
 		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -1972,7 +1972,7 @@ The inline keyboard has three sub-menus:
             menu_cb_warns = 'Use the row below to change the warns settings!',
         },
         not_mod = 'Du bist *kein* Moderator',
-        breaks_markdown = 'Dieser Text sprengt die Formatierung (markdown).\nMehr Informationen über die korrekte Nutzung der Formatierungsoptionen gibt es [hier](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'Dieser Text sprengt die Formatierung (markdown).\nMehr Informationen über die korrekte Nutzung der Formatierungsoptionen gibt es [hier](https://telegram.me/JoveCH).',
         credits = '*Einige nützliche Links:*',
         extra = {
             setted = '&&&1 command saved!',
@@ -1993,7 +1993,7 @@ The inline keyboard has three sub-menus:
                 ..'`/groups` : get the list of the discussion groups\n'
                 .."_JEDER VORSCHLAG UND JEDE FUNKTIONSERWEITERUNGSANFRAGE (FEATURE REQUEST) IST GERNE GESEHEN_ Der Entwickler wird SBWM (so bald wie möglich ^^ ; ASAP - as soon as possible) antworten\n"
                 .."`/help` : Zeige diese Nachricht an\n\n"
-                .."Wenn dir der Bot gefällt, bewerte ihn [hier](https://telegram.me/storebot?start=groupbutler_bot) bitte so wie du es für richtig hälst",
+                .."Wenn dir der Bot gefällt, bewerte ihn [hier](https://telegram.me/storebot?start=JoveFreeBot) bitte so wie du es für richtig hälst",
             group_not_success = "_Schreibe zuerst mir, damit ich dann dir schreiben kann>_",
             group_success = "_Ich habe dir das Hilfsmenü als Direktnachricht geschickt_",
             initial = 'You can surf this keyboard to see *all the available commands*',
@@ -2019,7 +2019,7 @@ The inline keyboard has three sub-menus:
                     .."`/extra list` = Zeige eine Liste mit deinen zusätzlichen Befehlen.\n"
                     .."`/extra del [#trigger]` = Entferne den Auslöser (trigger) und die dazugehörige Nachricht.\n"
                     .."\n*Merke*: Formatierungsoptionen werden unterstützt. Wenn der Text die Formatierung sprengt, wird der Bot sich beschweren.\n"
-                    .."Für korrekten Umgang mit den Formatierungsoptionen sieh dir [diese Nachricht](https://telegram.me/GroupButler_ch/46) im Kanal (channel) an",
+                    .."Für korrekten Umgang mit den Formatierungsoptionen sieh dir [diese Nachricht](https://telegram.me/JoveCH) im Kanal (channel) an",
                 flood = "*Moderatoren: Flutschutzeinstellungen (flood settings) *\n\n"
                     .."`/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.\n"
                     .."`/antiflood [number]` = Setze eine Anzahl von Nachrichten, die ein Nutzer innerhalb von 5 Sekunden senden kann.\n"
@@ -2034,7 +2034,7 @@ The inline keyboard has three sub-menus:
 `/addabout [text]` = Füge einige Zeilen am Ende der bestehenden Beschreibung hinzu.
 
 *Merke* : Formatierungsoptionen werden unterstützt. Wenn der Text die Formatierung sprengt wird der Bot sich beschweren.
-Für korrekten Umgang mit den Formatierungsoptionen sieh dir [diese Nachricht](https://telegram.me/GroupButler_ch/46) im Kanal (channel) an]],
+Für korrekten Umgang mit den Formatierungsoptionen sieh dir [diese Nachricht](https://telegram.me/JoveCH) im Kanal (channel) an]],
                 lang = "*Moderatoren: Spracheinstellungen*\n\n"
                     .."`/lang` = choose the group language (can be changed in private too).\n"
                     .."*Beachte*: Übersetzter sind ehrenamtliche Freiwillige, ich kann also nicht für die Korrektheit aller Übersetzungen garantieren. "
@@ -2078,7 +2078,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
                     .."*GIF/Sticker als Willkommensnachricht*\nDu kannst ein bestimmtes GIF/einen bestimten Sticker als Willkommensnachricht verwenden. Dafür antworte (reply) einfach mit '/welcome' auf ein GIF/Sticker\n\n",
             },
             private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -2350,7 +2350,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
             menu_cb_warns = 'Use the row below to change the warns settings!',
         },
         not_mod = 'You are *not* a moderator',
-        breaks_markdown = 'Texten bryter markdown-formatteringen.\nMer information om markdown-formattering hitter du [här](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'Texten bryter markdown-formatteringen.\nMer information om markdown-formattering hitter du [här](https://telegram.me/JoveCH).',
         credits = '*Några användbara länkar:*',
         extra = {
             setted = '&&&1 command saved!',
@@ -2370,7 +2370,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
             .."`/echo [text]` : botten skickar texten tillbaka (med markdown)\n"
             .."`/info` : visa användbar information om botten\n"
             ..'`/groups` : get the list of the discussion groups\n'
-            .."`/help` : visa detta meddelande.\n\nOm du gillar den här botten, lämna gärna den röst du tycker botten förtjänar [här](https://telegram.me/storebot?start=groupbutler_bot)",
+            .."`/help` : visa detta meddelande.\n\nOm du gillar den här botten, lämna gärna den röst du tycker botten förtjänar [här](https://telegram.me/storebot?start=JoveFreeBot)",
             group_not_success = "_Skicka mig ett meddelande först, så kan jag därefter skicka meddelanden till dig_",
             group_success = "_Jag har skickat dig hjälpen privat_",
             initial = 'You can surf this keyboard to see *all the available commands*',
@@ -2396,7 +2396,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
               .."`/extra list` = visar en lista över dina extrakommandon.\n"
               .."`/extra del [#trigger]` = tar bort en trigger och tillhörande svarstext.\n"
               .."\n*Obs!* Man kan använda markdown-formatering. Om det inte är korrekt markdown, så får du ett meddelande om det.\n"
-              .."Hur man skriver korrekt markdown kan de se [här](https://telegram.me/GroupButler_ch/46) i kanalen",
+              .."Hur man skriver korrekt markdown kan de se [här](https://telegram.me/JoveCH) i kanalen",
               flood = "*Moderatorer: flood-inställningar*\n\n"
               .."`/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.\n"
               .."`/antiflood [number]` = sätter hur många meddelande man får skicka under 5 sekunder.\n"
@@ -2411,7 +2411,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
 `/addabout [text]` = Lägger till text i slutet av nuvarande beskrivning.
 
 *Obs!* Man kan använda markdown-formatering. Om det inte är korrekt markdown, så får du ett meddelande om det.
-Hur man skriver korrekt markdown kan de se [här](https://telegram.me/GroupButler_ch/46) i kanalen]],
+Hur man skriver korrekt markdown kan de se [här](https://telegram.me/JoveCH) i kanalen]],
               lang = "*Moderatorer: gruppspråk*\n\n"
               .."`/lang` = choose the group language (can be changed in private too).\n"
               .."*Obs!* översättarna jobbar ideellt och frivilligt, så jag kan inte garantera att all översättning är korrekt. Och jag kan inte tvinga dem att översätta allt nytt vid uppdateringar (texter som inte är översatta visas på engelska).\n"
@@ -2453,7 +2453,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
               .."*GIF/sticker som välkomstmeddelande*\nDu kan använda en gif/sticker som välkomstmeddelande genom att besvara en gif/sticker med '/welcome'\n\n*Sammansatta välkomstmeddelanden*\n"
             },
             private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -2724,7 +2724,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
             msg_me = '_أرسل لي رسالة اولاً حتى أستطيع إرسال رسائل لك_',
         },
         not_mod = 'إنك لست مشرفاً',
-        breaks_markdown = 'هذا النص يكسر تنسيق ماركداون.. لمزيد من المعلومات حول الاستخدام السليم لماركداون [هنا](https://telegram.me/GroupButler_ch/46).',
+        breaks_markdown = 'هذا النص يكسر تنسيق ماركداون.. لمزيد من المعلومات حول الاستخدام السليم لماركداون [هنا](https://telegram.me/JoveCH).',
         credits = '*بعض الروابط المفيد:*',
         extra = {
             setted = 'أمر &&&1 محفوظ!',
@@ -2752,7 +2752,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
 `/addabout [text]` = أضف بعض النص في نهاية الوصف.
 
 *ملاحظة:* هذا البرنا��ج متوافق مع تنسيق ماركداون. إذا تم إرسال نص يكسر تنسيق ماركداون، البوت سيبلغ أن هناك شيء خاطئ.
-للاستخدام السليم لتنسيق ماركداون، برجاء الرجوع إلى [هذا الرابط](https://telegram.me/GroupButler_ch/46) في القناة.]],
+للاستخدام السليم لتنسيق ماركداون، برجاء الرجوع إلى [هذا الرابط](https://telegram.me/JoveCH) في القناة.]],
                 flood = "*مشرفون: إعدادات مكافحة إغراق رسائل*\n\n"
                         .."`/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.\n"
                         .."`/antiflood [number]` = حدد كم رسائل المستخدم يستطيع إرسالها أثناء فترة 5 ثوان.\n"
@@ -2779,7 +2779,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
                         .."`/extra list` = حصول على قائمة الأوامر الخاصة بك.\n"
                         .."`/extra del [#trigger]` = حذف الكلمةالمحفزة ورسالتها.\n"
                         .."\n*ملاحظة:* يجري دعم تنسيق ماركداون. إذا كسب النص المرسل تنسيق ماركداون، البوت سيبلغ أن هناك شيء خاطئ.\n"
-                        .."من أجل تعرف عن الاستخدام السليم لتنسيق ماركداون، اضغط [هنا](https://telegram.me/GroupButler_ch/46) في القناة",
+                        .."من أجل تعرف عن الاستخدام السليم لتنسيق ماركداون، اضغط [هنا](https://telegram.me/JoveCH) في القناة",
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -2826,7 +2826,7 @@ The inline keyboard has three sub-menus:
 `/groups` : get the list of the discussion groups
 `/help` : أظهر هذه الرسالة']],
 		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -3117,7 +3117,7 @@ The inline keyboard has three sub-menus:
             too_long = "Ce texte est trop long, je ne peux pas l'envoyer"
         },
         not_mod = 'Tu n\'es *pas* un modérateur',
-        breaks_markdown = "Ce texte rompt le Markdown.\nPlus d'infos à propos de l'utilisation du Markdown [ici](https://telegram.me/GroupButler_ch/46).",
+        breaks_markdown = "Ce texte rompt le Markdown.\nPlus d'infos à propos de l'utilisation du Markdown [ici](https://telegram.me/JoveCH).",
         credits = "*Quelques liens utiles:*",
         extra = {
             command_deleted = "La commande &&&1 a été effacée",
@@ -3147,7 +3147,7 @@ The inline keyboard has three sub-menus:
                     .."`/extra list` = recevoir la liste de tes commandes extra.\n"
                     .."`/extra del [#hashtag]` = effacer le hashtag et son message.\n\n"
                     .."*Remarque*: le Markdown est supporté. Si le texte envoyé contient des erreurs de Markdown, le bot notifiera que quelque chose est faux.\n"
-                    .."Pour une utilisation correcte du Markdown, regarde [ce poste] (https://telegram.me/GroupButler_ch/46) dans le channel anglais",
+                    .."Pour une utilisation correcte du Markdown, regarde [ce poste] (https://telegram.me/JoveCH) dans le channel anglais",
                 flood = "*Modérateurs: paramètres de spamm*\n\n"
                     .."`/antiflood` = gère les paramètres de spamm en privé, avec un clavier en ligne. Tu peux changer la sensibilité, l'action (kick/ban) et même configurer quelques exceptions.\n"
                     .."`/antiflood [nombre]` = configurer combien de messages quelqu'un peux écrire en 5 secondes.\n"
@@ -3162,7 +3162,7 @@ The inline keyboard has three sub-menus:
 `/addabout [texte]` = ajouter du texte à la fin de la description déjà existante.
 
 *Remarque*: le Markdown est supporté. Si le texte envoyé contient des erreurs de Markdown, le bot notifiera que quelque chose est faux.
-Pour une utilisation correcte du Markdown, regarde [ce poste] (https://telegram.me/GroupButler_ch/46) dans le channel anglais]],
+Pour une utilisation correcte du Markdown, regarde [ce poste] (https://telegram.me/JoveCH) dans le channel anglais]],
                 lang = "*Modérateurs: langue du groupe*\n\n"
                     .."`/lang` = choisir la langue du groupe (peut être changé en privé aussi).\n\n"
                     .."*Remarque*: les traducteurs sont bénévoles, je ne peux donc pas assurer la correctitudes de toutes les traductions. Je ne peux pas non plus les forcer de traduires les nouvelles commandes après chaques mises à jour (les commandes non-traduite seront en anglais).\n"
@@ -3215,7 +3215,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
 `/groups` : get the list of the discussion groups
 `/help` : montrer ce message]],
             private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -3486,7 +3486,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
             too_long = "內容太長，無法傳送。"
         },
         not_mod = "你不是管理員。",
-        breaks_markdown = "字型符號（Markdown）使用不當。\n關於字型符號的詳細解說請點擊[這裏](https://telegram.me/GroupButler_ch/46)。",
+        breaks_markdown = "字型符號（Markdown）使用不當。\n關於字型符號的詳細解說請點擊[這裏](https://telegram.me/JoveCH)。",
         credits = "有用連結︰",
         extra = {
             command_deleted = "&&&1 指令已被刪除。",
@@ -3514,7 +3514,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
 `/addabout [新簡介]` = 在原有的簡介的最後加上新簡介
 
 備註︰可使用字型符號（Markdown），如果使用不當，人機會告知訊息出錯
-正確的使用方法請參考[這裏](https://telegram.me/GroupButler_ch/46) in the channel]],
+正確的使用方法請參考[這裏](https://telegram.me/JoveCH) in the channel]],
                 flood = [[【選項︰防洗版】
                     .."`/antiflood` = 透過私訊變更防洗版設定﹐可更改洗版的定義、應對方法和排除某種形式。\n"
                     .."`/antiflood [數值]` = 設定用戶在 5 秒內可以傳送的最大訊息數量\n備註︰數值必須介乎 4 到 25 之間\n"]],
@@ -3535,7 +3535,7 @@ How to change the max. number of warnings allowed for media: `/config` command, 
                     .."`/extra del [#發動文字]` = 移除發動文字及預設回覆\n"
                     .."`/disable extra` = 只有管理員可使用自訂指令；其他人使用時，人機會透過私訊回覆。\n"
                     .."`/enable extra` = 所有人都可以在群組內使用自訂指令\n\n"
-                    .."備註︰可使用字型符號（Markdown），如果使用不當，人機會告知訊息出錯\n正確的使用方法請參考[這裏](https://telegram.me/GroupButler_ch/46) in the channel",
+                    .."備註︰可使用字型符號（Markdown），如果使用不當，人機會告知訊息出錯\n正確的使用方法請參考[這裏](https://telegram.me/JoveCH) in the channel",
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -3575,9 +3575,9 @@ The inline keyboard has three sub-menus:
 `/id`︰獲取群組ＩＤ，或是玩家ＩＤ（透過回覆）
 `/echo [訊息內容]`︰人機會向你重複訊息內容（會實施字型符號，只在私訊有用）
 `/info`︰顯示關於人機的有用資訊\n`/group`︰獲取討論（人機）群組的連結
-如果你喜歡本人機，請在[here](https://telegram.me/storebot?start=groupbutler_bot)表達你的想法（也是英文）\n（中文內容由 @Firewood\\_LoKi 翻譯）]],
+如果你喜歡本人機，請在[here](https://telegram.me/storebot?start=JoveFreeBot)表達你的想法（也是英文）\n（中文內容由 @Firewood\\_LoKi 翻譯）]],
             private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
@@ -3841,7 +3841,7 @@ The inline keyboard has three sub-menus:
             menu_cb_warns = 'روی نمابرهای زیر بزنید تا اخطارها تغییر کنند!',
         },
         not_mod = 'شما از مدیران نیستید!',
-        breaks_markdown = 'این مدل نشانه گذاری قابل قبول نیست.\n اطلاعات بیشتر برای درست استفاده کردن از قابلیت نشانه گذاری را در [این صفحه](https://telegram.me/GroupButler_ch/46) مطالعه کنید.',
+        breaks_markdown = 'این مدل نشانه گذاری قابل قبول نیست.\n اطلاعات بیشتر برای درست استفاده کردن از قابلیت نشانه گذاری را در [این صفحه](https://telegram.me/JoveCH) مطالعه کنید.',
         credits = '*برخی از لینک های کارآمد:*',
         extra = {
             setted = '&&&1 ذخیره شد',
@@ -3869,7 +3869,7 @@ The inline keyboard has three sub-menus:
 `/addabout [text]` = اضافه کردن متنی به پایان توضییحات گروه
 
 *تذکر:* نشانه دار کردن در این قسمت پشتیبانی می شود..\n"
-برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/GroupButler_ch/46) مراجعه کنید.]],
+برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/JoveCH) مراجعه کنید.]],
                 flood = "*مدیریت: ضد اسپم*\n\n"
                         .."`/antiflood` = manage the flood settings in private, with an inline keyboard. You can change the sensitivity, the action (kick/ban), and even set some exceptions.\n"
                         .."`/antiflood [number]` = set how many messages a user can write in 5 seconds.\n"
@@ -3896,7 +3896,7 @@ The inline keyboard has three sub-menus:
                         .."`/extra list` = نمایش دستورهای ذخیره شده\n"
                         .."`/extra del [#trigger]` = حذف دستور \n"
                         .."\n*تذکر:* نشانه دار کردن در این قسمت پشتیبانی می شود..\n"
-                        .."برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/GroupButler_ch/46) مراجعه کنید.",
+                        .."برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/JoveCH) مراجعه کنید.",
                 warns = [[*Moderators: warns*
 
 `/warn [by reply]` = warn a user. Once the max number is reached, he will be kicked/banned.
@@ -3943,7 +3943,7 @@ The inline keyboard has three sub-menus:
 /groups` : get the list of the discussion groups
 /help` : نمایش این پیام]],
 		    private = 'Hello *&&&1* '..emoji.shaking_hand..', nice to meet you!\n'
-                    ..'I\'m Group Butler, the first administration bot using the official Bot API.\n'
+                    ..'I\'m Group Jove, the first administration bot using the official Bot API.\n'
                     ..'\n*I can do a lot of cool stuffs*, here\'s a short list:\n'
                     ..'• I can *kick or ban* users (even in normal groups) by reply/username\n'
                     ..'• You can use me to set the group rules and a description\n'
